@@ -1,4 +1,5 @@
 VIM COMANDOS
+# estos son los comandos
 
 PARA MOVERSE
 * h = izquierda
